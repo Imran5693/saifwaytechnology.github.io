@@ -1,3 +1,7 @@
+title: "Portfolio"
+permalink: /portfolio/
+layout: single
+---
 # Portfolio
 ## Services
 - Development of User Interfaces for Services
