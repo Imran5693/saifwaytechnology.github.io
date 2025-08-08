@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Saif Way Technology"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Imran Sarwar"
+description              : "Networking, Network Automation, Python Development, and System Administration Services"
+url                      : the base hostname & protocol for your site e.g. "https://saifwaytechnology.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Imran Sarwar"
+  avatar           :  path of avatar image, e.g. "/assets/images/avatar.jpg"
+  bio              : "MCSE | CCNA | Python Developer | Linux & Windows Server Admin"
   location         : "Somewhere"
   email            :
   links:
